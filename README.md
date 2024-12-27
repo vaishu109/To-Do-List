@@ -1,3 +1,12 @@
-Hello everyone!
-This is my first project created by HTML,CSS and Javascript.This is a TO DO LIST where you can schedule yor daily tasks,designed to help you stay focused and productive.I hope you are oing to love it.Feedback is always welcome.
-THANK YOU<3
+# TO-DO-LIST
+
+TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
+
+You can see the website live at: https://5codeman.github.io/TO-DO-LIST/
+
+ABOUT THIS PROJECT-:
+
+  1. In this project i have created a simple to-do app using HTML CSS and JavaScript.
+  2. Built a To-Do List application to make a list of daily works written down in one place.
+  3. Implemented functionalities like add task, remove task, filter tasks and also mark tasks as done.
+ 
